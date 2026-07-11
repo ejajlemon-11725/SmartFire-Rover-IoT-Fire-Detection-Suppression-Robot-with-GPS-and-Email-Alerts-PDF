@@ -1,6 +1,4 @@
-Based on your IEEE paper, here's a **professional, GitHub-quality README** suitable for a portfolio project. It is structured like high-quality open-source repositories and highlights your project's research contribution.
 
----
 
 # 🔥 SmartFire Rover
 
